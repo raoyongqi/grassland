@@ -17,3 +17,10 @@ https://registry.npmjs.org/
 root@r-OMEN-by-HP-Laptop-17-cb1xxx:~# npm config set registry https://registry.npmmirror.com
 root@r-OMEN-by-HP-Laptop-17-cb1xxx:~# npm config get registry
 ```
+
+
+# dp（Douglas-Peucker 算法），请确保命令的格式如下：
+
+mapshaper filtered_grasslands.geojson -simplify dp 10% -o simplified.geojson
+
+
